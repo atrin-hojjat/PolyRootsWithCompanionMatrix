@@ -1,0 +1,2353 @@
+This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023/Arch Linux) (preloaded format=xetex 2024.1.24)  27 JAN 2024 05:23
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**\nonstopmode\input commands.tex
+(./commands.tex
+! Undefined control sequence.
+l.4 \usepackage
+               {amsthm,amssymb,amsmath,amsfonts}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.6 \usepackage
+               [top=30mm, bottom=30mm, left=25mm, right=30mm]{geometry}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.8 \usepackage
+               {graphicx}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.9 \usepackage
+               {color}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.11 \usepackage
+                {setspace}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.12 \usepackage
+                {titletoc}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.13 \usepackage
+                {tocloft}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.16 \usepackage
+                {enumitem}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.19 \usepackage
+                [pagebackref=false,colorlinks,linkcolor=blue,citecolor=red]{...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.20 \usepackage
+                [nameinlink]{cleveref}%capitalize,,noabbrev
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.21  \AtBeginDocument
+                      {%
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.22     \crefname
+                  {equation}{برابری}{equations}%
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no ب ("628) in font cmr10!
+Missing character: There is no ر ("631) in font cmr10!
+Missing character: There is no ا ("627) in font cmr10!
+Missing character: There is no ب ("628) in font cmr10!
+Missing character: There is no ر ("631) in font cmr10!
+Missing character: There is no ی ("6CC) in font cmr10!
+! Undefined control sequence.
+l.23     \crefname
+                  {chapter}{فصل}{chapters}%
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no ف ("641) in font cmr10!
+Missing character: There is no ص ("635) in font cmr10!
+Missing character: There is no ل ("644) in font cmr10!
+! Undefined control sequence.
+l.24     \crefname
+                  {section}{بخش}{sections}%
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no ب ("628) in font cmr10!
+Missing character: There is no خ ("62E) in font cmr10!
+Missing character: There is no ش ("634) in font cmr10!
+! Undefined control sequence.
+l.25     \crefname
+                  {appendix}{پیوست}{appendices}%
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no پ ("67E) in font cmr10!
+Missing character: There is no ی ("6CC) in font cmr10!
+Missing character: There is no و ("648) in font cmr10!
+Missing character: There is no س ("633) in font cmr10!
+Missing character: There is no ت ("62A) in font cmr10!
+! Undefined control sequence.
+l.26     \crefname
+                  {enumi}{مورد}{items}%
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no م ("645) in font cmr10!
+Missing character: There is no و ("648) in font cmr10!
+Missing character: There is no ر ("631) in font cmr10!
+Missing character: There is no د ("62F) in font cmr10!
+! Undefined control sequence.
+l.27     \crefname
+                  {footnote}{زیرنویس}{footnotes}%
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no ز ("632) in font cmr10!
+Missing character: There is no ی ("6CC) in font cmr10!
+Missing character: There is no ر ("631) in font cmr10!
+Missing character: There is no ن ("646) in font cmr10!
+Missing character: There is no و ("648) in font cmr10!
+Missing character: There is no ی ("6CC) in font cmr10!
+Missing character: There is no س ("633) in font cmr10!
+! Undefined control sequence.
+l.28     \crefname
+                  {figure}{شکل}{figures}%
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no ش ("634) in font cmr10!
+Missing character: There is no ک ("6A9) in font cmr10!
+Missing character: There is no ل ("644) in font cmr10!
+! Undefined control sequence.
+l.29     \crefname
+                  {table}{جدول}{tables}%
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no ج ("62C) in font cmr10!
+Missing character: There is no د ("62F) in font cmr10!
+Missing character: There is no و ("648) in font cmr10!
+Missing character: There is no ل ("644) in font cmr10!
+! Undefined control sequence.
+l.30     \crefname
+                  {theorem}{قضیه}{theorems}%
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no ق ("642) in font cmr10!
+Missing character: There is no ض ("636) in font cmr10!
+Missing character: There is no ی ("6CC) in font cmr10!
+Missing character: There is no ه ("647) in font cmr10!
+! Undefined control sequence.
+l.31     \crefname
+                  {lemma}{لم}{lemmas}%
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no ل ("644) in font cmr10!
+Missing character: There is no م ("645) in font cmr10!
+! Undefined control sequence.
+l.32     \crefname
+                  {corollary}{نتیجه}{corollaries}%
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no ن ("646) in font cmr10!
+Missing character: There is no ت ("62A) in font cmr10!
+Missing character: There is no ی ("6CC) in font cmr10!
+Missing character: There is no ج ("62C) in font cmr10!
+Missing character: There is no ه ("647) in font cmr10!
+! Undefined control sequence.
+l.33     \crefname
+                  {proposition}{گزاره}{propositions}%
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no گ ("6AF) in font cmr10!
+Missing character: There is no ز ("632) in font cmr10!
+Missing character: There is no ا ("627) in font cmr10!
+Missing character: There is no ر ("631) in font cmr10!
+Missing character: There is no ه ("647) in font cmr10!
+! Undefined control sequence.
+l.34     \crefname
+                  {definition}{تعریف}{definitions}%
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no ت ("62A) in font cmr10!
+Missing character: There is no ع ("639) in font cmr10!
+Missing character: There is no ر ("631) in font cmr10!
+Missing character: There is no ی ("6CC) in font cmr10!
+Missing character: There is no ف ("641) in font cmr10!
+! Undefined control sequence.
+l.35     \crefname
+                  {result}{نتیجه}{results}%
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no ن ("646) in font cmr10!
+Missing character: There is no ت ("62A) in font cmr10!
+Missing character: There is no ی ("6CC) in font cmr10!
+Missing character: There is no ج ("62C) in font cmr10!
+Missing character: There is no ه ("647) in font cmr10!
+! Undefined control sequence.
+l.36     \crefname
+                  {example}{مثال}{examples}%
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no م ("645) in font cmr10!
+Missing character: There is no ث ("62B) in font cmr10!
+Missing character: There is no ا ("627) in font cmr10!
+Missing character: There is no ل ("644) in font cmr10!
+! Undefined control sequence.
+l.37     \crefname
+                  {remark}{نکته}{remarks}%
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no ن ("646) in font cmr10!
+Missing character: There is no ک ("6A9) in font cmr10!
+Missing character: There is no ت ("62A) in font cmr10!
+Missing character: There is no ه ("647) in font cmr10!
+! Undefined control sequence.
+l.38     \crefname
+                  {note}{یادداشت}{notes}%
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no ی ("6CC) in font cmr10!
+Missing character: There is no ا ("627) in font cmr10!
+Missing character: There is no د ("62F) in font cmr10!
+Missing character: There is no د ("62F) in font cmr10!
+Missing character: There is no ا ("627) in font cmr10!
+Missing character: There is no ش ("634) in font cmr10!
+Missing character: There is no ت ("62A) in font cmr10!
+! Undefined control sequence.
+l.44 \usepackage
+                {fancyhdr}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.46 \usepackage
+                [nottoc]{tocbibind}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.48 \usepackage
+                {makeidx,multicol}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.49 \setlength
+               {\columnsep}{1.5cm}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.49 \setlength{\columnsep
+                          }{1.5cm}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+Overfull \hbox (32.38493pt too wide) in paragraph at lines 4--50
+\tenrm graph-icx color setspace ti-tle-toc to-cloft en-u-mitem [page-back-ref=f
+alse,colorlinks,linkcolor=blue,citecolor=red]hyperref|
+
+\hbox(7.5+2.5)x469.75499, glue set - 1.0
+.\tenrm g
+.\tenrm r
+.\tenrm a
+.\tenrm p
+.\tenrm h
+.etc.
+
+
+Overfull \hbox (785.66441pt too wide) in paragraph at lines 4--50
+\tenrm [namein-link]cleverefequationequationschapterchapterssectionsectionsappe
+ndixappendicesenumiitemsfootnotefootnotesfigurefigurestabletablestheoremtheorem
+slemmalemmascorollarycorollariespropositionpropositionsdefinitiondefinitionsres
+ultresultsexampleexamplesremarkremarksnotenotes|
+
+\hbox(7.5+2.5)x469.75499
+.\tenrm [
+.\tenrm n
+.\tenrm a
+.\tenrm m
+.\tenrm e
+.etc.
+
+! Undefined control sequence.
+l.52 \usepackage
+                {verbatim}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.53 \makeindex
+               
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.54 \usepackage
+                {sectsty}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.56 \usepackage
+                {xepersian}%[extrafootnotefeatures]
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.57 \SepMark
+             {-}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.59 \settextfont
+                 [Scale=1.2]{B Nazanin}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.62 \setmonofont
+                 {Mononoki Nerd Font Mono}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.63 \renewcommand
+                  {\labelitemi}{$\bullet$}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.63 \renewcommand{\labelitemi
+                              }{$\bullet$}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.70 \defpersianfont
+                    \nastaliq[Scale=2]{IranNastaliq}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.70 \defpersianfont\nastaliq
+                             [Scale=2]{IranNastaliq}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.71 \defpersianfont
+                    \chapternumber[Scale=3]{B Nazanin}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.71 \defpersianfont\chapternumber
+                                  [Scale=3]{B Nazanin}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.75 \renewcommand
+                  \proofname{\textbf{برهان}}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.75 \renewcommand\proofname
+                            {\textbf{برهان}}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.75 \renewcommand\proofname{\textbf
+                                    {برهان}}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no ب ("628) in font cmr10!
+Missing character: There is no ر ("631) in font cmr10!
+Missing character: There is no ه ("647) in font cmr10!
+Missing character: There is no ا ("627) in font cmr10!
+Missing character: There is no ن ("646) in font cmr10!
+! Undefined control sequence.
+l.78 \renewcommand
+                  {\bibname}{منابع و مراجع}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.78 \renewcommand{\bibname
+                           }{منابع و مراجع}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no م ("645) in font cmr10!
+Missing character: There is no ن ("646) in font cmr10!
+Missing character: There is no ا ("627) in font cmr10!
+Missing character: There is no ب ("628) in font cmr10!
+Missing character: There is no ع ("639) in font cmr10!
+Missing character: There is no و ("648) in font cmr10!
+Missing character: There is no م ("645) in font cmr10!
+Missing character: There is no ر ("631) in font cmr10!
+Missing character: There is no ا ("627) in font cmr10!
+Missing character: There is no ج ("62C) in font cmr10!
+Missing character: There is no ع ("639) in font cmr10!
+! Undefined control sequence.
+l.82 \setlength
+               {\cftbeforetoctitleskip}{-1.2em}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.82 \setlength{\cftbeforetoctitleskip
+                                      }{-1.2em}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.83 \setlength
+               {\cftbeforelottitleskip}{-1.2em}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.83 \setlength{\cftbeforelottitleskip
+                                      }{-1.2em}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.84 \setlength
+               {\cftbeforeloftitleskip}{-1.2em}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.84 \setlength{\cftbeforeloftitleskip
+                                      }{-1.2em}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.85 \setlength
+               {\cftaftertoctitleskip}{-1em}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.85 \setlength{\cftaftertoctitleskip
+                                     }{-1em}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.86 \setlength
+               {\cftafterlottitleskip}{-1em}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.86 \setlength{\cftafterlottitleskip
+                                     }{-1em}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.87 \setlength
+               {\cftafterloftitleskip}{-1em}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.87 \setlength{\cftafterloftitleskip
+                                     }{-1em}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.96 \newcommand
+                \tocheading{\par عنوان\hfill صفحه \par}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.96 \newcommand\tocheading
+                           {\par عنوان\hfill صفحه \par}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no ع ("639) in font cmr10!
+Missing character: There is no ن ("646) in font cmr10!
+Missing character: There is no و ("648) in font cmr10!
+Missing character: There is no ا ("627) in font cmr10!
+Missing character: There is no ن ("646) in font cmr10!
+Missing character: There is no ص ("635) in font cmr10!
+Missing character: There is no ف ("641) in font cmr10!
+Missing character: There is no ح ("62D) in font cmr10!
+Missing character: There is no ه ("647) in font cmr10!
+! Undefined control sequence.
+l.97 \newcommand
+                \lofheading{\hspace*{.5cm}\figurename\hfill صفحه \par}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.97 \newcommand\lofheading
+                           {\hspace*{.5cm}\figurename\hfill صفحه \par}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.97 \newcommand\lofheading{\hspace
+                                   *{.5cm}\figurename\hfill صفحه \par}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.97 ...mmand\lofheading{\hspace*{.5cm}\figurename
+                                                  \hfill صفحه \par}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no ص ("635) in font cmr10!
+Missing character: There is no ف ("641) in font cmr10!
+Missing character: There is no ح ("62D) in font cmr10!
+Missing character: There is no ه ("647) in font cmr10!
+! Undefined control sequence.
+l.98 \newcommand
+                \lotheading{\hspace*{.5cm}\tablename\hfill صفحه \par}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.98 \newcommand\lotheading
+                           {\hspace*{.5cm}\tablename\hfill صفحه \par}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.98 \newcommand\lotheading{\hspace
+                                   *{.5cm}\tablename\hfill صفحه \par}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.98 ...ommand\lotheading{\hspace*{.5cm}\tablename
+                                                  \hfill صفحه \par}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no ص ("635) in font cmr10!
+Missing character: There is no ف ("641) in font cmr10!
+Missing character: There is no ح ("62D) in font cmr10!
+Missing character: There is no ه ("647) in font cmr10!
+! Undefined control sequence.
+l.100 \renewcommand
+                   {\cftchapleader}{\cftdotfill{\cftdotsep}}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.100 \renewcommand{\cftchapleader
+                                  }{\cftdotfill{\cftdotsep}}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.100 \renewcommand{\cftchapleader}{\cftdotfill
+                                               {\cftdotsep}}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.100 ...nd{\cftchapleader}{\cftdotfill{\cftdotsep
+                                                  }}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.101 \renewcommand
+                   {\cfttoctitlefont}{\hspace*{\fill}\LARGE\bfseries}%\Large
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.101 \renewcommand{\cfttoctitlefont
+                                    }{\hspace*{\fill}\LARGE\bfseries}%\Large
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.101 \renewcommand{\cfttoctitlefont}{\hspace
+                                             *{\fill}\LARGE\bfseries}%\Large
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.101 ...wcommand{\cfttoctitlefont}{\hspace*{\fill
+                                                  }\LARGE\bfseries}%\Large
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.101 ...d{\cfttoctitlefont}{\hspace*{\fill}\LARGE
+                                                  \bfseries}%\Large
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.101 ...titlefont}{\hspace*{\fill}\LARGE\bfseries
+                                                  }%\Large
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.102 \renewcommand
+                   {\cftaftertoctitle}{\hspace*{\fill}}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.102 \renewcommand{\cftaftertoctitle
+                                     }{\hspace*{\fill}}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.102 \renewcommand{\cftaftertoctitle}{\hspace
+                                              *{\fill}}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.102 ...command{\cftaftertoctitle}{\hspace*{\fill
+                                                  }}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.103 \renewcommand
+                   {\cftlottitlefont}{\hspace*{\fill}\LARGE\bfseries}%\Large
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.103 \renewcommand{\cftlottitlefont
+                                    }{\hspace*{\fill}\LARGE\bfseries}%\Large
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.103 \renewcommand{\cftlottitlefont}{\hspace
+                                             *{\fill}\LARGE\bfseries}%\Large
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.103 ...wcommand{\cftlottitlefont}{\hspace*{\fill
+                                                  }\LARGE\bfseries}%\Large
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.103 ...d{\cftlottitlefont}{\hspace*{\fill}\LARGE
+                                                  \bfseries}%\Large
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.103 ...titlefont}{\hspace*{\fill}\LARGE\bfseries
+                                                  }%\Large
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.104 \renewcommand
+                   {\cftafterlottitle}{\hspace*{\fill}}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.104 \renewcommand{\cftafterlottitle
+                                     }{\hspace*{\fill}}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.104 \renewcommand{\cftafterlottitle}{\hspace
+                                              *{\fill}}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.104 ...command{\cftafterlottitle}{\hspace*{\fill
+                                                  }}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.105 \renewcommand
+                   {\cftloftitlefont}{\hspace*{\fill}\LARGE\bfseries}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.105 \renewcommand{\cftloftitlefont
+                                    }{\hspace*{\fill}\LARGE\bfseries}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.105 \renewcommand{\cftloftitlefont}{\hspace
+                                             *{\fill}\LARGE\bfseries}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.105 ...wcommand{\cftloftitlefont}{\hspace*{\fill
+                                                  }\LARGE\bfseries}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.105 ...d{\cftloftitlefont}{\hspace*{\fill}\LARGE
+                                                  \bfseries}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.105 ...titlefont}{\hspace*{\fill}\LARGE\bfseries
+                                                  }
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.106 \renewcommand
+                   {\cftafterloftitle}{\hspace*{\fill}}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.106 \renewcommand{\cftafterloftitle
+                                     }{\hspace*{\fill}}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.106 \renewcommand{\cftafterloftitle}{\hspace
+                                              *{\fill}}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.106 ...command{\cftafterloftitle}{\hspace*{\fill
+                                                  }}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.111 \theoremstyle
+                   {definition}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.112 \newtheorem
+                 {definition}{تعریف}[section]
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no ت ("62A) in font cmr10!
+Missing character: There is no ع ("639) in font cmr10!
+Missing character: There is no ر ("631) in font cmr10!
+Missing character: There is no ی ("6CC) in font cmr10!
+Missing character: There is no ف ("641) in font cmr10!
+! Undefined control sequence.
+l.113 \newtheorem
+                 {remark}[definition]{نکته}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no ن ("646) in font cmr10!
+Missing character: There is no ک ("6A9) in font cmr10!
+Missing character: There is no ت ("62A) in font cmr10!
+Missing character: There is no ه ("647) in font cmr10!
+! Undefined control sequence.
+l.114 \newtheorem
+                 {note}[definition]{یادداشت}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no ی ("6CC) in font cmr10!
+Missing character: There is no ا ("627) in font cmr10!
+Missing character: There is no د ("62F) in font cmr10!
+Missing character: There is no د ("62F) in font cmr10!
+Missing character: There is no ا ("627) in font cmr10!
+Missing character: There is no ش ("634) in font cmr10!
+Missing character: There is no ت ("62A) in font cmr10!
+! Undefined control sequence.
+l.115 \newtheorem
+                 {example}[definition]{نمونه}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no ن ("646) in font cmr10!
+Missing character: There is no م ("645) in font cmr10!
+Missing character: There is no و ("648) in font cmr10!
+Missing character: There is no ن ("646) in font cmr10!
+Missing character: There is no ه ("647) in font cmr10!
+! Undefined control sequence.
+l.116 \newtheorem
+                 {question}[definition]{سوال}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no س ("633) in font cmr10!
+Missing character: There is no و ("648) in font cmr10!
+Missing character: There is no ا ("627) in font cmr10!
+Missing character: There is no ل ("644) in font cmr10!
+! Undefined control sequence.
+l.117 \newtheorem
+                 {remember}[definition]{یاداوری}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no ی ("6CC) in font cmr10!
+Missing character: There is no ا ("627) in font cmr10!
+Missing character: There is no د ("62F) in font cmr10!
+Missing character: There is no ا ("627) in font cmr10!
+Missing character: There is no و ("648) in font cmr10!
+Missing character: There is no ر ("631) in font cmr10!
+Missing character: There is no ی ("6CC) in font cmr10!
+! Undefined control sequence.
+l.118 \theoremstyle
+                   {theorem}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.119 \newtheorem
+                 {theorem}[definition]{قضیه}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no ق ("642) in font cmr10!
+Missing character: There is no ض ("636) in font cmr10!
+Missing character: There is no ی ("6CC) in font cmr10!
+Missing character: There is no ه ("647) in font cmr10!
+! Undefined control sequence.
+l.120 \newtheorem
+                 {lemma}[definition]{لم}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no ل ("644) in font cmr10!
+Missing character: There is no م ("645) in font cmr10!
+! Undefined control sequence.
+l.121 \newtheorem
+                 {proposition}[definition]{گزاره}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no گ ("6AF) in font cmr10!
+Missing character: There is no ز ("632) in font cmr10!
+Missing character: There is no ا ("627) in font cmr10!
+Missing character: There is no ر ("631) in font cmr10!
+Missing character: There is no ه ("647) in font cmr10!
+! Undefined control sequence.
+l.122 \newtheorem
+                 {corollary}[definition]{نتیجه}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no ن ("646) in font cmr10!
+Missing character: There is no ت ("62A) in font cmr10!
+Missing character: There is no ی ("6CC) in font cmr10!
+Missing character: There is no ج ("62C) in font cmr10!
+Missing character: There is no ه ("647) in font cmr10!
+
+Overfull \hbox (5.49612pt too wide) in paragraph at lines 111--134
+\tenrm re-mem-ber[definition] the-o-rem the-o-rem[definition] lemma[definition]
+ propo-si-tion[definition] corol-lary[definition] |
+
+\hbox(7.5+2.5)x469.75499, glue set - 1.0
+.\tenrm r
+.\tenrm e
+.\discretionary
+..\tenrm -
+.\tenrm m
+.\tenrm e
+.etc.
+
+! Undefined control sequence.
+l.138 \makeatletter
+                   
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.139 \newcommand
+                 \mycustomraggedright{%
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.139 \newcommand\mycustomraggedright
+                                     {%
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.163 \bidi
+           @patchcmd{\@makechapterhead}{\thechapter}{\tartibi{chapter}}{}{}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Argument of \@ has an extra }.
+<inserted text> 
+                \par 
+<to be read again> 
+                   }
+l.163 \bidi@patchcmd{\@makechapterhead}
+                                       {\thechapter}{\tartibi{chapter}}{}{}
+I've run across a `}' that doesn't seem to match anything.
+For example, `\def\a#1{...}' and `\a}' would produce
+this error. If you simply proceed now, the `\par' that
+I've just inserted will cause me to report a runaway
+argument that might be the root of the problem. But if
+your `}' was spurious, just type `2' and it will go away.
+
+Runaway argument?
+! Paragraph ended before \@ was complete.
+<to be read again> 
+                   \par 
+<to be read again> 
+                   }
+l.163 \bidi@patchcmd{\@makechapterhead}
+                                       {\thechapter}{\tartibi{chapter}}{}{}
+I suspect you've forgotten a `}', causing me to apply this
+control sequence to too much text. How can we recover?
+My plan is to forget the whole thing and hope for the best.
+
+! Undefined control sequence.
+l.163 ...i@patchcmd{\@makechapterhead}{\thechapter
+                                                  }{\tartibi{chapter}}{}{}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.163 ...{\@makechapterhead}{\thechapter}{\tartibi
+                                                  {chapter}}{}{}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.164 \bidi
+           @patchcmd{\chaptermark}{\thechapter}{\tartibi{chapter}}{}{}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.164 \bidi@patchcmd{\chaptermark
+                                 }{\thechapter}{\tartibi{chapter}}{}{}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.164 \bidi@patchcmd{\chaptermark}{\thechapter
+                                              }{\tartibi{chapter}}{}{}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.164 ...chcmd{\chaptermark}{\thechapter}{\tartibi
+                                                  {chapter}}{}{}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.165 \makeatother
+                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.167 \pagestyle
+                {fancy}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.168 \renewcommand
+                   {\chaptermark}[1]{\markboth{\chaptername~\tartibi{chapter...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.168 \renewcommand{\chaptermark
+                                }[1]{\markboth{\chaptername~\tartibi{chapter...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.168 \renewcommand{\chaptermark}[1]{\markboth
+                                              {\chaptername~\tartibi{chapter...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.168 ...d{\chaptermark}[1]{\markboth{\chaptername
+                                                  ~\tartibi{chapter}: #1}{}}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.168 ...rmark}[1]{\markboth{\chaptername~\tartibi
+                                                  {chapter}: #1}{}}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! You can't use `macro parameter character #' in horizontal mode.
+l.168 ...arkboth{\chaptername~\tartibi{chapter}: #
+                                                  1}{}}
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! Undefined control sequence.
+l.170 \fancypagestyle
+                     {style1}{
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.171 \fancyhf
+              {}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.172 \fancyfoot
+                [c]{\thepage}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.172 \fancyfoot[c]{\thepage
+                            }
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.173 \fancyhead
+                [R]{\leftmark}%
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.173 \fancyhead[R]{\leftmark
+                             }%
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.174 \renewcommand
+                   {\headrulewidth}{1.2pt}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.174 \renewcommand{\headrulewidth
+                                  }{1.2pt}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.178 \fancypagestyle
+                     {style2}{
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.179 \fancyhf
+              {}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.180 \fancyhead
+                [R]{چکیده}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no چ ("686) in font cmr10!
+Missing character: There is no ک ("6A9) in font cmr10!
+Missing character: There is no ی ("6CC) in font cmr10!
+Missing character: There is no د ("62F) in font cmr10!
+Missing character: There is no ه ("647) in font cmr10!
+! Undefined control sequence.
+l.181 \fancyfoot
+                [C]{\thepage{}}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.181 \fancyfoot[C]{\thepage
+                            {}}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.182 \renewcommand
+                   {\headrulewidth}{1.2pt}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.182 \renewcommand{\headrulewidth
+                                  }{1.2pt}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.185 \fancypagestyle
+                     {style3}{%
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.186   \fancyhf
+                {}%
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.187   \fancyhead
+                  [R]{فهرست نمادها}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no ف ("641) in font cmr10!
+Missing character: There is no ه ("647) in font cmr10!
+Missing character: There is no ر ("631) in font cmr10!
+Missing character: There is no س ("633) in font cmr10!
+Missing character: There is no ت ("62A) in font cmr10!
+Missing character: There is no ن ("646) in font cmr10!
+Missing character: There is no م ("645) in font cmr10!
+Missing character: There is no ا ("627) in font cmr10!
+Missing character: There is no د ("62F) in font cmr10!
+Missing character: There is no ه ("647) in font cmr10!
+Missing character: There is no ا ("627) in font cmr10!
+! Undefined control sequence.
+l.188   \fancyfoot
+                  [C]{\thepage}%
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.188   \fancyfoot[C]{\thepage
+                              }%
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.189   \renewcommand
+                     {\headrulewidth}{1.2pt}%
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.189   \renewcommand{\headrulewidth
+                                    }{1.2pt}%
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.192 \fancypagestyle
+                     {style4}{%
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.193   \fancyhf
+                {}%
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.194   \fancyhead
+                  [R]{فهرست جداول}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no ف ("641) in font cmr10!
+Missing character: There is no ه ("647) in font cmr10!
+Missing character: There is no ر ("631) in font cmr10!
+Missing character: There is no س ("633) in font cmr10!
+Missing character: There is no ت ("62A) in font cmr10!
+Missing character: There is no ج ("62C) in font cmr10!
+Missing character: There is no د ("62F) in font cmr10!
+Missing character: There is no ا ("627) in font cmr10!
+Missing character: There is no و ("648) in font cmr10!
+Missing character: There is no ل ("644) in font cmr10!
+! Undefined control sequence.
+l.195   \fancyfoot
+                  [C]{\thepage}%
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.195   \fancyfoot[C]{\thepage
+                              }%
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.196   \renewcommand
+                     {\headrulewidth}{1.2pt}%
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.196   \renewcommand{\headrulewidth
+                                    }{1.2pt}%
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.199 \fancypagestyle
+                     {style5}{%
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.200   \fancyhf
+                {}%
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.201   \fancyhead
+                  [R]{فهرست اشکال}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no ف ("641) in font cmr10!
+Missing character: There is no ه ("647) in font cmr10!
+Missing character: There is no ر ("631) in font cmr10!
+Missing character: There is no س ("633) in font cmr10!
+Missing character: There is no ت ("62A) in font cmr10!
+Missing character: There is no ا ("627) in font cmr10!
+Missing character: There is no ش ("634) in font cmr10!
+Missing character: There is no ک ("6A9) in font cmr10!
+Missing character: There is no ا ("627) in font cmr10!
+Missing character: There is no ل ("644) in font cmr10!
+! Undefined control sequence.
+l.202   \fancyfoot
+                  [C]{\thepage}%
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.202   \fancyfoot[C]{\thepage
+                              }%
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.203   \renewcommand
+                     {\headrulewidth}{1.2pt}%
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.203   \renewcommand{\headrulewidth
+                                    }{1.2pt}%
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.206 \fancypagestyle
+                     {style6}{%
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.207   \fancyhf
+                {}%
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.208   \fancyhead
+                  [R]{فهرست مطالب}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no ف ("641) in font cmr10!
+Missing character: There is no ه ("647) in font cmr10!
+Missing character: There is no ر ("631) in font cmr10!
+Missing character: There is no س ("633) in font cmr10!
+Missing character: There is no ت ("62A) in font cmr10!
+Missing character: There is no م ("645) in font cmr10!
+Missing character: There is no ط ("637) in font cmr10!
+Missing character: There is no ا ("627) in font cmr10!
+Missing character: There is no ل ("644) in font cmr10!
+Missing character: There is no ب ("628) in font cmr10!
+! Undefined control sequence.
+l.209   \fancyfoot
+                  [C]{\thepage}%
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.209   \fancyfoot[C]{\thepage
+                              }%
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.210   \renewcommand
+                     {\headrulewidth}{1.2pt}%
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.210   \renewcommand{\headrulewidth
+                                    }{1.2pt}%
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.213 \fancypagestyle
+                     {style7}{%
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.214   \fancyhf
+                {}%
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.215   \fancyhead
+                  [R]{نمایه}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no ن ("646) in font cmr10!
+Missing character: There is no م ("645) in font cmr10!
+Missing character: There is no ا ("627) in font cmr10!
+Missing character: There is no ی ("6CC) in font cmr10!
+Missing character: There is no ه ("647) in font cmr10!
+! Undefined control sequence.
+l.216   \fancyfoot
+                  [C]{\thepage}%
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.216   \fancyfoot[C]{\thepage
+                              }%
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.217   \renewcommand
+                     {\headrulewidth}{1.2pt}%
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.217   \renewcommand{\headrulewidth
+                                    }{1.2pt}%
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.220 \fancypagestyle
+                     {style8}{%
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.221   \fancyhf
+                {}%
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.222   \fancyhead
+                  [R]{منابع و مراجع}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no م ("645) in font cmr10!
+Missing character: There is no ن ("646) in font cmr10!
+Missing character: There is no ا ("627) in font cmr10!
+Missing character: There is no ب ("628) in font cmr10!
+Missing character: There is no ع ("639) in font cmr10!
+Missing character: There is no و ("648) in font cmr10!
+Missing character: There is no م ("645) in font cmr10!
+Missing character: There is no ر ("631) in font cmr10!
+Missing character: There is no ا ("627) in font cmr10!
+Missing character: There is no ج ("62C) in font cmr10!
+Missing character: There is no ع ("639) in font cmr10!
+! Undefined control sequence.
+l.223   \fancyfoot
+                  [C]{\thepage}%
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.223   \fancyfoot[C]{\thepage
+                              }%
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.224   \renewcommand
+                     {\headrulewidth}{1.2pt}%
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.224   \renewcommand{\headrulewidth
+                                    }{1.2pt}%
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.226 \fancypagestyle
+                     {style9}{%
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.227   \fancyhf
+                {}%
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.228   \fancyhead
+                  [R]{واژه‌نامه‌ی فارسی به انگلیسی}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no و ("648) in font cmr10!
+Missing character: There is no ا ("627) in font cmr10!
+Missing character: There is no ژ ("698) in font cmr10!
+Missing character: There is no ه ("647) in font cmr10!
+Missing character: There is no ‌ ("200C) in font cmr10!
+Missing character: There is no ن ("646) in font cmr10!
+Missing character: There is no ا ("627) in font cmr10!
+Missing character: There is no م ("645) in font cmr10!
+Missing character: There is no ه ("647) in font cmr10!
+Missing character: There is no ‌ ("200C) in font cmr10!
+Missing character: There is no ی ("6CC) in font cmr10!
+Missing character: There is no ف ("641) in font cmr10!
+Missing character: There is no ا ("627) in font cmr10!
+Missing character: There is no ر ("631) in font cmr10!
+Missing character: There is no س ("633) in font cmr10!
+Missing character: There is no ی ("6CC) in font cmr10!
+Missing character: There is no ب ("628) in font cmr10!
+Missing character: There is no ه ("647) in font cmr10!
+Missing character: There is no ا ("627) in font cmr10!
+Missing character: There is no ن ("646) in font cmr10!
+Missing character: There is no گ ("6AF) in font cmr10!
+Missing character: There is no ل ("644) in font cmr10!
+Missing character: There is no ی ("6CC) in font cmr10!
+Missing character: There is no س ("633) in font cmr10!
+Missing character: There is no ی ("6CC) in font cmr10!
+! Undefined control sequence.
+l.229   \fancyfoot
+                  [C]{\thepage}%
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.229   \fancyfoot[C]{\thepage
+                              }%
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.230   \renewcommand
+                     {\headrulewidth}{1.2pt}%
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.230   \renewcommand{\headrulewidth
+                                    }{1.2pt}%
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.236 \newcommand
+                 *{\BeginNoToc}{%
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.236 \newcommand*{\BeginNoToc
+                              }{%
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.237   \addtocontents
+                      {toc}{%
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.238     \edef\protect\SavedTocDepth{\protect
+                                              \the\protect\value{tocdepth}}%
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.238 ...rotect\SavedTocDepth{\protect\the\protect
+                                                  \value{tocdepth}}%
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.238 ...\SavedTocDepth{\protect\the\protect\value
+                                                  {tocdepth}}%
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! You can't use `begin-group character {' after \the.
+l.238 ...SavedTocDepth{\protect\the\protect\value{
+                                                  tocdepth}}%
+I'm forgetting what you said and using zero instead.
+
+! Undefined control sequence.
+l.240   \addtocontents
+                      {toc}{%
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.241     \protect
+                  \setcounter{tocdepth}{-10}%
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.241     \protect\setcounter
+                             {tocdepth}{-10}%
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Too many }'s.
+l.243 }
+       
+You've closed more groups than you opened.
+Such booboos are generally harmless, so keep going.
+
+! Undefined control sequence.
+l.244 \newcommand
+                 *{\EndNoToc}{%
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.244 \newcommand*{\EndNoToc
+                            }{%
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.245   \addtocontents
+                      {toc}{%
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.246     \protect
+                  \setcounter{tocdepth}{\protect\SavedTocDepth}%
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.246     \protect\setcounter
+                             {tocdepth}{\protect\SavedTocDepth}%
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.246     \protect\setcounter{tocdepth}{\protect
+                                                \SavedTocDepth}%
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.246 ...tcounter{tocdepth}{\protect\SavedTocDepth
+                                                  }%
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.249 \newcounter
+                 {savepage}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.250 \renewcommand
+                   {\listfigurename}{فهرست اشکال}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.250 \renewcommand{\listfigurename
+                                   }{فهرست اشکال}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no ف ("641) in font cmr10!
+Missing character: There is no ه ("647) in font cmr10!
+Missing character: There is no ر ("631) in font cmr10!
+Missing character: There is no س ("633) in font cmr10!
+Missing character: There is no ت ("62A) in font cmr10!
+Missing character: There is no ا ("627) in font cmr10!
+Missing character: There is no ش ("634) in font cmr10!
+Missing character: There is no ک ("6A9) in font cmr10!
+Missing character: There is no ا ("627) in font cmr10!
+Missing character: There is no ل ("644) in font cmr10!
+! Undefined control sequence.
+l.251 \renewcommand
+                   {\listtablename}{فهرست جداول}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.251 \renewcommand{\listtablename
+                                  }{فهرست جداول}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no ف ("641) in font cmr10!
+Missing character: There is no ه ("647) in font cmr10!
+Missing character: There is no ر ("631) in font cmr10!
+Missing character: There is no س ("633) in font cmr10!
+Missing character: There is no ت ("62A) in font cmr10!
+Missing character: There is no ج ("62C) in font cmr10!
+Missing character: There is no د ("62F) in font cmr10!
+Missing character: There is no ا ("627) in font cmr10!
+Missing character: There is no و ("648) in font cmr10!
+Missing character: There is no ل ("644) in font cmr10!
+)
+! Emergency stop.
+<*> \nonstopmode\input commands.tex
+                                   
+*** (job aborted, no legal \end found)
+
+No pages of output.

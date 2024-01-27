@@ -1,0 +1,259 @@
+\chapter{پیاده‌سازی و پیچیدگی محاسباتی}
+
+\section{پیاده‌سازی روش ماتریس همراه در پایتون}
+
+در این بخش می‌خواهیم به نحوی‌ی پیاده سازی این الگوریتم در پایتون بپردازیم.
+فرض کنید چند جمله‌ای دلخواه
+$p(x) = a_n x^n + a_{n-1} x^{n-1} + ... + a_1x + a_0$
+داده شده است.
+در مرحله‌ی اول، باید تمامی ضرایب چند جمله ای را بر
+$a_n$
+تقسیم کنیم، تا این چند جمله‌ای به فرم مورد نظر ما در آید.
+برای ورودی گرفتی یک چند جمله‌ای، کافیست یک آرایه
+$n + 1$
+تایی داشته باشیم که اندیس
+$i$
+ام آن متناظر با
+$a_{n-i}$
+است.
+
+\begin{latin}
+  \begin{python}
+def get_formated_poly(poly):
+    """
+    Return the polynomial such that the coefficient of the maximum power of x
+    is always 1
+    """
+    ret = poly / poly[0]
+    return ret
+
+  \end{python}
+\end{latin}
+
+در مرحله‌ی بعد، باید ماتریس همراه این چندجمله‌ای را بسازیم:
+\begin{latin}
+  \begin{python}
+def get_companion_matrix(poly):
+    """
+    Calculate the companion matrix for a normalized polynomial
+    """
+    n = len(poly)
+    cmat = np.zeros((n - 1, n - 1))
+    cmat[:, n - 2] = -poly[1:]
+    cmat[np.arange(1, n - 1), np.arange(0, n - 2)] = 1
+
+    return cmat
+
+  \end{python}
+\end{latin}
+
+در آخر، باید مقادیر ویژه‌ی این ماتریس را حساب کنیم. به این منظور می‌توانیم از بخش جبر خطی کتابخوانه
+\lr{numpy}
+استفاده کنیم یا الگوریتم
+\lr{QR}
+را پیاده سازی کنیم:
+
+\begin{latin}
+  \begin{python}
+poly = np.array([2, 3, 1, 4, 3, 6])
+norm_poly = get_formated_poly(poly)
+
+eigenvalues, _ = np.linalg.eig(matrix)
+
+  \end{python}
+\end{latin}
+
+این روش به طور کلی خطای‌ پایینی دارد و اگرچه ممکن است با ورودی‌های خواص، میزان خطا افزایش یابد،
+این میزان در طول محاسبات برای
+\lr{QR}
+و دترمینان ماتریس نسبتا ثابت می‌مانند~\cite{edelman1995polynomial}
+
+\section{محاسبه حدود ریشه‌ها}
+
+در این بخش، حلقه‌های گرشگورین رو برای ماتریس‌همراه محاسبه‌می‌کنیم.
+به این منظور، پس از نرمال کردن چندجمله‌ای و به دست آوردن ماتریس همراه، کافیست بزرگترین مقدار بین
+$|a_0|$
+تا
+$|a_{n-2}|$
+را به دست آورده(
+فرض کنید
+$a_k$
+بزرگترین
+است
+)، و با
+$a_{n-1} \pm 1$
+مقایسه کنیم
+.
+ریشه‌های معادله در یکی از
+\begin{equation}
+  \begin{cases}
+    | \lambda | \le a_k  \\
+    | \lambda + a_{n-1} | \le 1
+  \end{cases}
+\end{equation}
+
+قرار خواهند داشت.
+
+
+
+\begin{latin}
+  \begin{python}
+
+    bounds = [
+      (-np.max(np.abs(norm_poly[2:])), +np.max(np.abs(norm_poly[2:]))),
+      (-norm_poly[1] - 1, -norm_poly[1] + 1),
+    ]
+
+  \end{python}
+\end{latin}
+
+
+\insertfig{../output/gershgorin.pgf}{\lr{Gershgorin Discs for a Companion Matrix}}{GERSHGORIN_CMP_MAT}
+
+\begin{latin}
+  \begin{python}
+
+import os
+import numpy as np
+import matplotlib
+import matplotlib.pyplot as plt
+
+
+def plot_gershgorin_discs(matrix):
+    n = len(matrix)
+    eigenvalues, _ = np.linalg.eig(matrix)
+
+    fig, ax = plt.subplots()
+    ax.set_aspect('equal', adjustable='datalim')
+
+    for i in range(n):
+        disc_center = matrix[i, i]
+        disc_radius = np.sum(np.abs(matrix[i, :])) - np.abs(matrix[i, i])
+
+        disc = plt.Circle((disc_center, 0), disc_radius, fill=False, color='b', linestyle='dashed')
+        ax.add_patch(disc)
+        ax.plot(disc_center, 0, 'bo')  # Plot the center of the disc
+
+    ax.set_title('Gershgorin Discs')
+    ax.grid(True)
+    plt.xlabel('Real')
+    plt.ylabel('Imaginary')
+
+    ax.plot(np.real(eigenvalues), np.imag(eigenvalues), 'ro', label='Eigenvalues')
+    plt.legend()
+
+    plt.savefig(os.path.join("../output", "gershgorin.jpg"))
+    matplotlib.rcParams.update({
+        "pgf.texsystem": "xelatex",
+        'text.usetex': True,
+        'pgf.rcfonts': False,
+        "font.family": "mononoki Nerd Font Mono",
+        "font.serif": [],
+        #  "font.cursive": ["mononoki Nerd Font", "mononoki Nerd Font Mono"],
+    })
+    plt.savefig(os.path.join("../output", "gershgorin.pgf"))
+
+    plt.show()
+
+
+def get_companion_matrix(poly):
+    """
+    Calculate the companion matrix for a normalized polynomial
+    """
+    n = len(poly)
+    cmat = np.zeros((n - 1, n - 1))
+    cmat[:, n - 2] = (-poly[1:])[::-1]
+    cmat[np.arange(1, n - 1), np.arange(0, n - 2)] = 1
+
+    return cmat
+
+
+def get_formated_poly(poly):
+    """
+    Return the polynomial such that the coefficient of the maximum power of x
+    is always 1
+    """
+    return poly / poly[0]
+
+
+poly = np.array([2, 3, 1, 4, 3, 6])
+
+norm_poly = get_formated_poly(poly)
+matrix = get_companion_matrix(norm_poly)
+
+plot_gershgorin_discs(matrix)
+
+  \end{python}
+\end{latin}
+
+
+\section{محاسبه‌ی بزرگترین ریشه‌ی چندجمله‌ای از نظر اندازه}
+به این منظور، کافیست الگوریتم توصیف شده در فصل قبل را پیاده سازی کنیم:
+
+
+\begin{latin}
+  \begin{python}
+
+def power_iteration(A, num_iterations=1000, tol=1e-6):
+    """
+    Power iteration method for finding the dominant eigenvalue and eigenvector.
+
+    Parameters:
+    - A: Square matrix for which eigenvalues are to be calculated.
+    - num_iterations: Maximum number of iterations (default: 1000).
+    - tol: Tolerance to determine convergence (default: 1e-6).
+
+    Returns:
+    - eigenvalue: Dominant eigenvalue.
+    - eigenvector: Corresponding eigenvector.
+    """
+    n = A.shape[0]
+
+    # Initialize a random vector
+    v = np.random.rand(n)
+    v = v / np.linalg.norm(v)  # Normalize the vector
+
+    for i in range(num_iterations):
+        Av = np.dot(A, v)
+        eigenvalue = np.dot(v, Av)
+        v = Av / np.linalg.norm(Av)
+
+        # Check for convergence
+        if np.abs(np.dot(Av, v) - eigenvalue) < tol:
+            break
+
+    return eigenvalue, v
+  \end{python}
+\end{latin}
+
+
+
+\begin{latin}
+  \begin{python}
+
+poly = np.array([2, 3, 1, 4, 3, 6])
+norm_poly = get_formated_poly(poly)
+matrix = get_companion_matrix(norm_poly)
+root, _ = power_iteration(matrix)
+
+
+  \end{python}
+\end{latin}
+
+برای تست نتیجه، می‌توانیم مقدار چندجمله‌ای در این نقطه‌را به دست آوریم:
+
+
+\begin{latin}
+  \begin{python}
+
+def eval_poly(poly, x):
+    cur_x = 1
+    total = 0
+    for a in poly[::-1]:
+        total += cur_x * a
+        cur_x *= x
+    return total
+eval_poly(poly, root)
+
+  \end{python}
+\end{latin}

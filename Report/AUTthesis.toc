@@ -1,0 +1,25 @@
+\edef \SavedTocDepth {\the \value {tocdepth}}
+\setcounter {tocdepth}{-10}
+\contentsline {chapter}{فهرست تصاویر}{ج}{section*.1}%
+\contentsline {chapter}{فهرست جداول}{د}{section*.2}%
+\par عنوان\hfill صفحه \par 
+\setcounter {tocdepth}{\SavedTocDepth }
+\contentsline {chapter}{\numberline {1}شرح مسئله}{1}{chapter.1}%
+\contentsline {section}{\numberline {1-1}مقدمه}{2}{section.1.1}%
+\contentsline {section}{\numberline {1-2}شرح مسئله}{2}{section.1.2}%
+\contentsline {section}{\numberline {1-3}روش‌های بدست آوردن ریشه‌های چندجمله‌ای}{3}{section.1.3}%
+\contentsline {subsection}{\numberline {1-3-1}روش نیوتون}{3}{subsection.1.3.1}%
+\contentsline {subsection}{\numberline {1-3-2}روش هرنر}{4}{subsection.1.3.2}%
+\contentsline {subsection}{\numberline {1-3-3} روش دورند-کرنر }{5}{subsection.1.3.3}%
+\contentsline {chapter}{\numberline {2}روش ماتریس همراه}{7}{chapter.2}%
+\contentsline {section}{\numberline {2-1}بررسی روش ماتریس همراه}{8}{section.2.1}%
+\contentsline {section}{\numberline {2-2}اثبات روش ماتریس همراه}{9}{section.2.2}%
+\contentsline {section}{\numberline {2-3}محدود کردن بازه‌ی ریشه‌های معادله}{11}{section.2.3}%
+\contentsline {section}{\numberline {2-4}پیدا کردن کوچکترین یا بزرگترین ریشه‌ی یک چندجمله‌ای با کمک روش توانی}{12}{section.2.4}%
+\contentsline {chapter}{\numberline {3}پیاده‌سازی و پیچیدگی محاسباتی}{14}{chapter.3}%
+\contentsline {section}{\numberline {3-1}پیاده‌سازی روش ماتریس همراه در پایتون}{15}{section.3.1}%
+\contentsline {section}{\numberline {3-2}محاسبه حدود ریشه‌ها}{16}{section.3.2}%
+\contentsline {section}{\numberline {3-3}محاسبه‌ی بزرگترین ریشه‌ی چندجمله‌ای از نظر اندازه}{20}{section.3.3}%
+\contentsline {chapter}{کتاب‌نامه}{22}{appendix*.3}%
+\contentsline {chapter}{پیوست}{23}{appendix*.4}%
+\contentsfinish 

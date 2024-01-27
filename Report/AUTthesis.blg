@@ -1,0 +1,57 @@
+This is BibTeX, Version 0.99d (TeX Live 2023/Arch Linux)
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: AUTthesis.aux
+A level-1 auxiliary file: chapter1.aux
+A level-1 auxiliary file: chapter2.aux
+A level-1 auxiliary file: chapter3.aux
+The style file: plain-fa.bst
+A level-1 auxiliary file: appendix1.aux
+Database file #1: references.bib
+Warning--to sort, need author or key in beresford1969
+-- plain-fa.bst version 0.9 (2015/05/09) 
+-- This is a BibTeX style for XePersian: http://www.parsilatex.com
+Warning--empty author in beresford1969
+
+Done.
+You've used 7 entries,
+            2546 wiz_defined-function locations,
+            676 strings with 6200 characters,
+and the built_in function-call counts, 2411 in all, are:
+= -- 218
+> -- 81
+< -- 1
++ -- 32
+- -- 25
+* -- 165
+:= -- 361
+add.period$ -- 21
+call.type$ -- 7
+change.case$ -- 32
+chr.to.int$ -- 0
+cite$ -- 9
+duplicate$ -- 90
+empty$ -- 187
+format.name$ -- 25
+if$ -- 564
+int.to.chr$ -- 0
+int.to.str$ -- 7
+missing$ -- 57
+newline$ -- 68
+num.names$ -- 14
+pop$ -- 33
+preamble$ -- 1
+purify$ -- 26
+quote$ -- 0
+skip$ -- 61
+stack$ -- 0
+substring$ -- 147
+swap$ -- 16
+text.length$ -- 1
+text.prefix$ -- 0
+top$ -- 4
+type$ -- 26
+warning$ -- 2
+while$ -- 22
+width$ -- 8
+write$ -- 100
+(There were 2 warnings)
